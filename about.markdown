@@ -4,15 +4,27 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Jashan (21). Welcome to my personal site and blog, where you'll (eventually) find writings about
+food, books, technology or whatever else piques my interest and I feel is worth sharing.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### What I do
+1. 💼 I'm currently interning with the investment team at 8VC, where I focus primarily on B2B SaaS and enterprise tech. Prior to
+this, I did AI research at Uber ATG, and iOS development at Splunk and Wish.
+2. 💻 I'm in my fourth year of studying computer science at the University of Waterloo. My coursework has been focused
+around algorithms and computability theory, but I've also enjoyed pure mathematics (esp. analysis), optimization and
+(occasionally) some biology.
+3. 👨‍🍳 With the coronavirus, my foremost hobby has been indulging in culinary experiments -- with varying degrees of success.
+It's been a deeply rewarding journey and I learn something new every week. Stay tuned for recipes, tips, and advice!
+4. 📖 In my remaining time, I enjoy sitting back with a good book. Lately, I've been hooked to Brandon Sanderson's Cosmere universe,
+but I also read a healthy amount of nonfiction. Some of my favourites are 
+[*The Gene*](https://www.goodreads.com/book/show/27276428-the-gene), by Siddhartha Mukherjee and
+[*Thinking, Fast and Slow*](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow), by Daniel Kahneman. I may start writing
+book reviews soon.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Contacts
 
+LinkedIn: [jashansh](https://linkedin.com/in/jashansh)
 
-[jekyll-organization]: https://github.com/jekyll
+GitHub: [jashans98](https://github.com/users/jashans98)
+
+[Goodreads](https://www.goodreads.com/user/show/73700890-jashan-shewakramani)
