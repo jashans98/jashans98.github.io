@@ -27,4 +27,6 @@ LinkedIn: [jashansh](https://linkedin.com/in/jashansh)
 
 GitHub: [jashans98](https://github.com/users/jashans98)
 
+Email: *jashan1998s \[AT] gmail \[DOT] com*
+
 [Goodreads](https://www.goodreads.com/user/show/73700890-jashan-shewakramani)
